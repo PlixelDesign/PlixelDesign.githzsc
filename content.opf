@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 18.0" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>cARTÃO DE VISITA DIGITAL PLIXEL</dc:title>
+		<dc:date>2023-02-27T15:46:46Z</dc:date>
+		<dc:language>pt-BR</dc:language>
+		<meta property="dcterms:modified">2023-02-27T15:46:46Z</meta>
+		<dc:identifier id="bookid">urn:uuid:c83641af-b1da-4b33-971a-f30be30078df</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">both</meta>
+	</metadata>
+	<manifest>
+		<item id="cART_O_DE_VISITA_DIGITAL_PLIXEL_-1--1" href="cART_O_DE_VISITA_DIGITAL_PLIXEL_%281%29-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="Poppins-Medium.ttf" href="font/Poppins-Medium.ttf" media-type="application/x-font-ttf" />
+		<item id="Poppins-Regular.ttf" href="font/Poppins-Regular.ttf" media-type="application/x-font-ttf" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x100.png" href="image/100.png" media-type="image/png" />
+		<item id="x101.png" href="image/101.png" media-type="image/png" />
+		<item id="x102.png" href="image/102.png" media-type="image/png" />
+		<item id="x103.png" href="image/103.png" media-type="image/png" />
+		<item id="x104.png" href="image/104.png" media-type="image/png" />
+		<item id="x105.png" href="image/105.png" media-type="image/png" />
+		<item id="x106.png" href="image/106.png" media-type="image/png" />
+		<item id="x107.png" href="image/107.png" media-type="image/png" />
+		<item id="x108.png" href="image/108.png" media-type="image/png" />
+		<item id="x109.png" href="image/109.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="x110.png" href="image/110.png" media-type="image/png" />
+		<item id="x111.png" href="image/111.png" media-type="image/png" />
+		<item id="x112.png" href="image/112.png" media-type="image/png" />
+		<item id="x113.png" href="image/113.png" media-type="image/png" />
+		<item id="x114.png" href="image/114.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="x13.png" href="image/13.png" media-type="image/png" />
+		<item id="x14.png" href="image/14.png" media-type="image/png" />
+		<item id="x15.png" href="image/15.png" media-type="image/png" />
+		<item id="x16.png" href="image/16.png" media-type="image/png" />
+		<item id="x17.png" href="image/17.png" media-type="image/png" />
+		<item id="x18.png" href="image/18.png" media-type="image/png" />
+		<item id="x19.png" href="image/19.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x20.png" href="image/20.png" media-type="image/png" />
+		<item id="x21.png" href="image/21.png" media-type="image/png" />
+		<item id="x22.png" href="image/22.png" media-type="image/png" />
+		<item id="x23.png" href="image/23.png" media-type="image/png" />
+		<item id="x24.png" href="image/24.png" media-type="image/png" />
+		<item id="x25.png" href="image/25.png" media-type="image/png" />
+		<item id="x26.png" href="image/26.png" media-type="image/png" />
+		<item id="x27.png" href="image/27.png" media-type="image/png" />
+		<item id="x28.png" href="image/28.png" media-type="image/png" />
+		<item id="x29.png" href="image/29.png" media-type="image/png" />
+		<item id="x30.png" href="image/30.png" media-type="image/png" />
+		<item id="x31.png" href="image/31.png" media-type="image/png" />
+		<item id="x32.png" href="image/32.png" media-type="image/png" />
+		<item id="x33.png" href="image/33.png" media-type="image/png" />
+		<item id="x34.png" href="image/34.png" media-type="image/png" />
+		<item id="x35.png" href="image/35.png" media-type="image/png" />
+		<item id="x36.png" href="image/36.png" media-type="image/png" />
+		<item id="x37.png" href="image/37.png" media-type="image/png" />
+		<item id="x38.png" href="image/38.png" media-type="image/png" />
+		<item id="x39.png" href="image/39.png" media-type="image/png" />
+		<item id="x40.png" href="image/40.png" media-type="image/png" />
+		<item id="x41.png" href="image/41.png" media-type="image/png" />
+		<item id="x42.png" href="image/42.png" media-type="image/png" />
+		<item id="x43.png" href="image/43.png" media-type="image/png" />
+		<item id="x44.png" href="image/44.png" media-type="image/png" />
+		<item id="x45.png" href="image/45.png" media-type="image/png" />
+		<item id="x46.png" href="image/46.png" media-type="image/png" />
+		<item id="x47.png" href="image/47.png" media-type="image/png" />
+		<item id="x48.png" href="image/48.png" media-type="image/png" />
+		<item id="x49.png" href="image/49.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x50.png" href="image/50.png" media-type="image/png" />
+		<item id="x51.png" href="image/51.png" media-type="image/png" />
+		<item id="x52.png" href="image/52.png" media-type="image/png" />
+		<item id="x53.png" href="image/53.png" media-type="image/png" />
+		<item id="x54.png" href="image/54.png" media-type="image/png" />
+		<item id="x55.png" href="image/55.png" media-type="image/png" />
+		<item id="x56.png" href="image/56.png" media-type="image/png" />
+		<item id="x57.png" href="image/57.png" media-type="image/png" />
+		<item id="x58.png" href="image/58.png" media-type="image/png" />
+		<item id="x59.png" href="image/59.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x60.png" href="image/60.png" media-type="image/png" />
+		<item id="x61.png" href="image/61.png" media-type="image/png" />
+		<item id="x62.png" href="image/62.png" media-type="image/png" />
+		<item id="x63.png" href="image/63.png" media-type="image/png" />
+		<item id="x64.png" href="image/64.png" media-type="image/png" />
+		<item id="x65.png" href="image/65.png" media-type="image/png" />
+		<item id="x66.png" href="image/66.png" media-type="image/png" />
+		<item id="x67.png" href="image/67.png" media-type="image/png" />
+		<item id="x68.png" href="image/68.png" media-type="image/png" />
+		<item id="x69.png" href="image/69.png" media-type="image/png" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x70.png" href="image/70.png" media-type="image/png" />
+		<item id="x71.png" href="image/71.png" media-type="image/png" />
+		<item id="x72.png" href="image/72.png" media-type="image/png" />
+		<item id="x73.png" href="image/73.png" media-type="image/png" />
+		<item id="x74.png" href="image/74.png" media-type="image/png" />
+		<item id="x75.png" href="image/75.png" media-type="image/png" />
+		<item id="x76.png" href="image/76.png" media-type="image/png" />
+		<item id="x77.png" href="image/77.png" media-type="image/png" />
+		<item id="x78.png" href="image/78.png" media-type="image/png" />
+		<item id="x79.png" href="image/79.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x80.png" href="image/80.png" media-type="image/png" />
+		<item id="x81.png" href="image/81.png" media-type="image/png" />
+		<item id="x82.png" href="image/82.png" media-type="image/png" />
+		<item id="x83.png" href="image/83.png" media-type="image/png" />
+		<item id="x84.png" href="image/84.png" media-type="image/png" />
+		<item id="x85.png" href="image/85.png" media-type="image/png" />
+		<item id="x86.png" href="image/86.png" media-type="image/png" />
+		<item id="x87.png" href="image/87.png" media-type="image/png" />
+		<item id="x89.png" href="image/89.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="x90.png" href="image/90.png" media-type="image/png" />
+		<item id="x91.png" href="image/91.png" media-type="image/png" />
+		<item id="x92.png" href="image/92.png" media-type="image/png" />
+		<item id="x93.png" href="image/93.png" media-type="image/png" />
+		<item id="x94.png" href="image/94.png" media-type="image/png" />
+		<item id="x95.png" href="image/95.png" media-type="image/png" />
+		<item id="x96.png" href="image/96.png" media-type="image/png" />
+		<item id="x97.png" href="image/97.png" media-type="image/png" />
+		<item id="x98.png" href="image/98.png" media-type="image/png" />
+		<item id="x99.png" href="image/99.png" media-type="image/png" />
+		<item id="Daniel-fundo-PlixePARACIRCULOSl.png" href="image/Daniel-fundo-PlixePARACIRCULOSl.png" media-type="image/png" />
+		<item id="Prancheta_1Cubos.png" href="image/Prancheta_1Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_11Cubos.png" href="image/Prancheta_1_c_pia_11Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_2Cubos.png" href="image/Prancheta_1_c_pia_2Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_3Cubos.png" href="image/Prancheta_1_c_pia_3Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_4Cubos.png" href="image/Prancheta_1_c_pia_4Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_5Cubos.png" href="image/Prancheta_1_c_pia_5Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_7Cubos.png" href="image/Prancheta_1_c_pia_7Cubos.png" media-type="image/png" />
+		<item id="Prancheta_1_c_pia_9Cubos.png" href="image/Prancheta_1_c_pia_9Cubos.png" media-type="image/png" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="cART_O_DE_VISITA_DIGITAL_PLIXEL_-1--1" />
+	</spine>
+</package>
